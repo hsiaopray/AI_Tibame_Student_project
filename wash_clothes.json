@@ -1,0 +1,20 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "message",
+        "label": "是",
+        "text": "來做個乾淨的孩子吧"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "衣服好臭，還是算了"
+      }
+    ],
+    "text": "您確定要洗衣服嗎？"
+  }
+}

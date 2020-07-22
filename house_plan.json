@@ -1,0 +1,102 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": false,
+  "name": "house_plan",
+  "chatBarText": "關於家",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 8,
+        "width": 1304,
+        "height": 690
+      },
+      "action": {
+        "type": "postback",
+        "text": "前往臥室",
+        "data": "bedroom"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1295,
+        "y": 8,
+        "width": 753,
+        "height": 118
+      },
+      "action": {
+        "type": "message",
+        "text": "好像沒辦法直接過去"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1304,
+        "y": 130,
+        "width": 748,
+        "height": 556
+      },
+      "action": {
+        "type": "postback",
+        "text": "前往廚房",
+        "data": "kitchen"
+      }
+    },
+    {
+      "bounds": {
+        "x": 2061,
+        "y": 13,
+        "width": 429,
+        "height": 685
+      },
+      "action": {
+        "type": "postback",
+        "text": "前往玄關",
+        "data": "entrance"
+      }
+    },
+    {
+      "bounds": {
+        "x": 967,
+        "y": 698,
+        "width": 1531,
+        "height": 976
+      },
+      "action": {
+        "type": "postback",
+        "text": "前往客廳",
+        "data": "livingroom"
+      }
+    },
+    {
+      "bounds": {
+        "x": 8,
+        "y": 1035,
+        "width": 959,
+        "height": 651
+      },
+      "action": {
+        "type": "postback",
+        "text": "前往書房",
+        "data": "studyroom"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 698,
+        "width": 597,
+        "height": 337
+      },
+      "action": {
+        "type": "postback",
+        "text": "前往廁所",
+        "data": "bathroom"
+      }
+    }
+  ]
+}
+

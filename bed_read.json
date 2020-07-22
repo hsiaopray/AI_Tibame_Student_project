@@ -1,0 +1,174 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.cite.com.tw/images/1/1BV231.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "角落小夥伴 魔法繪本裡的新朋友",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "「你也是，角落小夥伴嗎？」",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "bold",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Read",
+                "uri": "https://www.books.com.tw/products/0010858874?loc=P_0003_006"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/28/0010862823.jpg&v=5f05ae3d&w=348&h=348",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "大人的性愛相談：不是長大自然就會，親密關係的探索解答",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "flex": 1,
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "性慾和食慾是一樣的！ ♀❤♂＝🍚 別再表面上拒絕，其實你我都需要",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "bold",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Read",
+                "uri": "https://www.books.com.tw/products/0010862823?loc=P_0003_009"
+              },
+              "flex": 2,
+              "color": "#AAAAAA",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/44/0010864442.jpg&v=5f0d89d2&w=348&h=348",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "我住在台灣了！——港人居台第3年",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "「香港人如何在台灣生活呢？」",
+                  "flex": 0,
+                  "size": "md",
+                  "weight": "bold",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Read",
+                "uri": "https://www.books.com.tw/products/0010864442?loc=P_0003_012"
+              },
+              "style": "primary"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
